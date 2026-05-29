@@ -1,0 +1,75 @@
+# Arquivos compilados Java
+*.class
+bin/
+out/
+build/
+target/
+
+# Arquivos de pacote / distribuicao
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Logs e dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+.factorypath
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Diretorios do projeto que nao devem ser versionados
+.claude/
+ProjetoPooNup2/
